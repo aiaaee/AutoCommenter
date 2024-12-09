@@ -1,5 +1,6 @@
 # Creating a comment section for a website using the RandomUser API:
 This project is a dynamic comment section for a website, built using the RandomUser API and Firebase for data storage. 
+
 ![picture2](https://github.com/user-attachments/assets/fa1f92ea-cdd9-421e-a611-3e785040316b)
 
 

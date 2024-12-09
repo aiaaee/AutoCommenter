@@ -1,5 +1,5 @@
-let $ =  document ; 
-let cardBox = $.querySelector('.cardBox')
+
+let cardBox = document.querySelector('.cardBox')
 let dataUser = []
 let datafetch = []
 window.addEventListener('load' , function(){
